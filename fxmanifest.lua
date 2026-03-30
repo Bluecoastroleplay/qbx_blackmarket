@@ -7,8 +7,6 @@ author      'qbx_blackmarket'
 description 'Black Market Dealer — Qbox / Community Ox'
 version     '1.0.0'
 
-ox_lib 'locale'
-
 shared_scripts {
     '@ox_lib/init.lua',
     '@qbx_core/modules/lib.lua',
